@@ -1,6 +1,4 @@
-Here's a `README.md` summary for your `rust_project` folder containing different Rust projects:
-
-````markdown
+```markdown
 # Rust Projects
 
 This repository contains various Rust projects, each demonstrating different functionalities and capabilities of the Rust programming language.
@@ -10,25 +8,6 @@ This repository contains various Rust projects, each demonstrating different fun
 ### 1. PDF Compressor
 
 **Description**: Compresses a PDF file using the `flate2` crate and generates a compressed Gzip file.
-
-**Usage**:
-
-```sh
-cargo run <input_file> <output_file>
-```
-````
-
-**Example**:
-
-```sh
-cargo run book.pdf compressed.gz
-```
-
-**Output**:
-
-- Source file size in bytes
-- Compressed file size in bytes
-- Time taken for compression
 
 ## Dependencies
 
@@ -43,8 +22,6 @@ Feel free to contribute to these projects by submitting issues or pull requests.
 ## License
 
 Each project within this repository is licensed under the MIT License. See the LICENSE file in the respective project directory for details.
-
-```
 
 This `README.md` provides an overview of the repository, summaries of individual projects, instructions for usage, and other relevant information. You can fill in the specific details for each project as you develop them.
 ```

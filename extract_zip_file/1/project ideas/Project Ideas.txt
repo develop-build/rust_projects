@@ -1,0 +1,44 @@
+Algorithm Based Project Ideas
+1) Syntax Validator
+2) Beautify Code
+3) Algorithm Visualizer
+4) Paint Application
+5) File Compression
+6) End to End Encryption
+7) Notepad / Text Editor
+8) Own linux / DOS Commands
+
+Web Scrappers Project Ideas
+1) Stock price Scrapper
+2) competitive Programming sites
+3) Product Comparison
+4) Github Scrapper
+5) System Management Projects - Library/Hospital/Hotels/TnP/Inventory Management 
+
+APIs based Project Ideas: [ rapidapi.com ]
+1) Google Maps API
+2) You Tube API
+3) Cryptocurrency API
+4) Movie Database API
+5) Random Jokes API
+6) Memes Generator API
+7) GIFs API
+8) Marvel API
+9) Poke API
+
+App based Projects:
+1) Clone Apps
+2) Live video streaming App
+3) Career Path decider App
+4) Events Hosting App
+5) Music Plyar
+6) Fitness App
+7) Influencers Connect App
+8) Quiz App
+
+**Google Chrome Extension**
+1) color Picker
+2) Web Scrapper Extension
+3) Notes Keeping Extension
+4) Cache Clear Extension
+5) Scanner for vulnerabilities
