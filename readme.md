@@ -5,9 +5,13 @@ This repository contains various Rust projects, each demonstrating different fun
 
 ## Projects
 
-### 1. PDF Compressor
+# 1. PDF Compressor
 
-**Description**: Compresses a PDF file using the `flate2` crate and generates a compressed Gzip file.
+# 2. Extract Zip file
+
+# 3. Get-Request
+
+# 4. making-api-calls
 
 ## Dependencies
 
